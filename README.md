@@ -53,9 +53,11 @@ Right now I'm working on a home SOC lab where Wazuh SIEM sends alerts to an n8n 
 
 | Project | What it does |
 |---|---|
-| 🛡️ [**SOC Home Lab**](https://github.com/akmalmahazan/YOUR-SOC-REPO-NAME) | Wazuh SIEM → n8n SOAR → AbuseIPDB → Telegram. Tested with a simulated SSH brute-force attack. |
+| 🛡️ [**SOC Home Lab**](https://github.com/akmalmahazan/soc-home-lab) | Wazuh SIEM → n8n SOAR → AbuseIPDB → Telegram. Tested with a simulated SSH brute-force attack. |
 | 📧 **MailShield AI** *(final-year project)* | Detects phishing emails in Gmail and explains *why* each one was flagged, using LIME and SHAP. |
-| 🌐 **Network Monitoring with PRTG** | Real Cisco router and switches with VLANs, monitored across all five FCAPS areas, with automated config backups in Python. |
+| 🌐 **Network Monitoring with PRTG** *(coursework)* | Real Cisco router and switches with VLANs, monitored across all five FCAPS areas, with automated config backups in Python. |
+| 🤖 **Infaq Bot** *(private)* | Telegram bot that handles monthly contribution tracking for a 37-member community programme. |
+| 🅿️ [**FKPark**](https://github.com/akmalmahazan/fkpark) | Web Engineering group project: a parking website with Admin, Student and Security roles to check and manage parking availability. Built with PHP. |
 
 ## 📊 GitHub Stats
 
@@ -65,7 +67,7 @@ Right now I'm working on a home SOC lab where Wazuh SIEM sends alerts to an n8n 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalmahazan&layout=compact&hide_border=true&bg_color=0d1117&title_color=1fa392&text_color=c9d1d9&langs_count=6" alt="Language stack" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalmahazan&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&bg_color=0d1117&title_color=1fa392&text_color=c9d1d9&langs_count=6" alt="Language stack" />
 </p>
 
 ## 🔗 Connect with Me
