@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Akmal</h1>
+<h1 align="center">Hey 👨‍💻 I'm Akmal</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=1FA392&center=true&vCenter=true&width=600&lines=Computer+Science+(Systems+%26+Networking)+%40+UMPSA;Building+SIEM+%2B+SOAR+labs+with+Wazuh+%26+n8n;Open+to+internships%3A+Feb+%E2%80%93+Aug+2027" alt="typing intro" />
@@ -18,16 +18,35 @@ Right now I'm working on a home SOC lab where Wazuh SIEM sends alerts to an n8n 
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,bash,powershell,py,flask,postgres,sqlite,aws,git,github,vscode&perline=13" alt="tech stack" />
+**🛡️ Security & Systems**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,bash,powershell&theme=dark" alt="security and systems" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Wazuh-1E5CF2?style=flat-square" alt="Wazuh" />
+<p>
+  <img src="https://img.shields.io/badge/Wazuh-1E5CF2?style=flat-square&logoColor=white" alt="Wazuh" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/PRTG-00A2E8?style=flat-square" alt="PRTG" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
+</p>
+
+**🌐 Networking**
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/PRTG-00A2E8?style=flat-square&logoColor=white" alt="PRTG" />
+  <img src="https://img.shields.io/badge/SNMP-555555?style=flat-square" alt="SNMP" />
+  <img src="https://img.shields.io/badge/TCP%2FIP%20%C2%B7%20VLAN%20%C2%B7%20OSPF%20%C2%B7%20ACL-0f2238?style=flat-square" alt="Networking" />
+</p>
+
+**💻 Programming, Data & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,flask,postgres,sqlite,aws,git,github,vscode&theme=dark" alt="programming and cloud" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </p>
 
 ## 🚀 Featured Projects
@@ -38,15 +57,11 @@ Right now I'm working on a home SOC lab where Wazuh SIEM sends alerts to an n8n 
 | 📧 **MailShield AI** *(final-year project)* | Detects phishing emails in Gmail and explains *why* each one was flagged, using LIME and SHAP. |
 | 🌐 **Network Monitoring with PRTG** | Real Cisco router and switches with VLANs, monitored across all five FCAPS areas, with automated config backups in Python. |
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=akmalmahazan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=1fa392&icon_color=1fa392&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=akmalmahazan&hide_border=true&background=0d1117&ring=1fa392&fire=1fa392&currStreakLabel=1fa392&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akmalmahazan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
 </p>
 
 <p align="center">
@@ -60,6 +75,8 @@ Right now I'm working on a home SOC lab where Wazuh SIEM sends alerts to an n8n 
   &nbsp;
   <a href="mailto:akmalmahazan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="44" alt="Email" /></a>
 </p>
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
