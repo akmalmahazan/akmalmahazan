@@ -1,11 +1,11 @@
-<h1 align="center">Hey 👨‍💻 I'm Akmal</h1>
+<h1 align="center">Hey I'm Akmal</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=1FA392&center=true&vCenter=true&width=600&lines=Computer+Science+(Systems+%26+Networking)+%40+UMPSA;Building+SIEM+%2B+SOAR+labs+with+Wazuh+%26+n8n;Open+to+internships%3A+Feb+%E2%80%93+Aug+2027" alt="typing intro" />
 </p>
 
 <p align="center">
-  <img src="./kirokaze.gif" width="100%" alt="Animated pixel art by Kirokaze" />
+  <img src="./KIROKAZE.gif" width="100%" alt="Animated pixel art by Kirokaze" />
   <br />
   <sub>🎨 Artwork by <a href="KIROKAZE-LINK">Kirokaze</a> (Gerardo Quiroz) — used with permission</sub>
 </p>
