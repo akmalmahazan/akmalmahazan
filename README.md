@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2238,100:1fa392&height=220&section=header&text=Akmal%20Arif%20Mahazan&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Network%20%26%20Security%20%E2%80%A2%20SOC%20%E2%80%A2%20Cloud&descAlignY=56&descSize=18&animation=fadeIn" alt="header" />
+  <img src="./header.svg" width="100%" alt="Akmal Arif Mahazan – Network & Security • SOC • Cloud" />
 </p>
 
 <p align="center">
@@ -9,24 +9,18 @@
   </a>
 </p>
 
-<!-- ===================== CONTACT ===================== -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/akmal-arif-mahazan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:akmalmahazan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/akmalmahazan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=akmalmahazan&style=for-the-badge&color=1fa392&label=Profile+views" alt="profile views" />
-</p>
-
----
-
 ## 👋 About me
 
-- 🎓 Final-year **Computer Science (Computer Systems & Networking)** student at **UMPSA**
-- 🛡️ Interested in **security operations**, **network engineering** and **cloud**
-- 🔬 Currently building a **home SOC lab**: Wazuh SIEM → n8n SOAR → AbuseIPDB → Telegram, next up Suricata IDS
-- 🧩 I learn best by building things and breaking them, then writing down what I learned
-- 💼 Looking for an **industrial training placement** from **Feb to Aug 2027**
-- 📫 Reach me at **akmalmahazan@gmail.com**
+I'm Akmal, a final-year Computer Science student at Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA), majoring in Computer Systems & Networking. I'm most interested in security operations and network engineering, and I like learning by building things myself, then breaking them to see what happens.
+
+Right now I'm working on a home SOC lab where Wazuh SIEM sends alerts to an n8n workflow that checks the attacker's IP on AbuseIPDB and notifies me on Telegram. Before that, I configured real Cisco routers and switches and monitored them with PRTG using the FCAPS model. I'm still learning every week, and I'm looking for an industrial training placement from **February to August 2027** where I can learn from a real team.
+
+<p>
+  <a href="mailto:akmalmahazan@gmail.com"><img src="https://img.shields.io/badge/akmalmahazan@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/akmal-arif-mahazan"><img src="https://img.shields.io/badge/akmal--arif--mahazan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/akmalmahazan?tab=followers"><img src="https://img.shields.io/github/followers/akmalmahazan?label=GitHub%20Followers&style=flat-square&logo=github&color=1fa392" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=akmalmahazan&style=flat-square&color=1fa392&label=Profile+Views" alt="Profile views" />
+</p>
 
 ---
 
@@ -86,7 +80,7 @@
 
 ---
 
-## 📊 GitHub stats
+## 📊 Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=akmalmahazan&show_icons=true&hide_border=true&bg_color=0f2238&title_color=1fa392&icon_color=1fa392&text_color=e6edf3&count_private=true" alt="GitHub stats" />
@@ -103,5 +97,5 @@
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1fa392,100:0f2238&height=120&section=footer" alt="footer" />
+  <img src="./footer.svg" width="100%" alt="footer" />
 </p>
