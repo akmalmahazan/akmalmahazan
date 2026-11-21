@@ -7,7 +7,6 @@
 <p align="center">
   <img src="./KIROKAZE.gif" width="100%" alt="Animated pixel art by Kirokaze" />
   <br />
-  <sub>🎨 Artwork by <a href="KIROKAZE-LINK">Kirokaze</a> (Gerardo Quiroz) — used with permission</sub>
 </p>
 
 ## 📌 About Me
